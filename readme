@@ -1,0 +1,2 @@
+This application was created in Pyton Flask Framework. Application parse the atom and rss feeds from html file base of the types and returns json file and json data. 
+The existing types can be updated from the list in form.py. To run application you will need to use run.py.
